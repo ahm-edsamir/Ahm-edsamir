@@ -1,0 +1,35 @@
+.one{
+    font-size:20px;
+    border:2px solid grey;
+    background-color:orange;
+    padding:20px;
+    margin:20px;
+}
+.two{
+    font-size:20px;
+    border:2px solid orange;
+    background-color:grey;
+    padding:20px;
+    margin:20px;
+}
+.three{
+    font-size:20px;
+    border:2px solid black;
+    background-color:palegoldenrod;
+    padding:20px;
+    margin:20px;
+}
+.four{
+    font-size:20px;
+    border:2px solid yellow;
+    background-color:violet;
+    padding:20px;
+    margin:20px;
+}
+.five{
+    font-size:20px;
+    border:2px solid red;
+    padding:20px;
+    margin:20px;
+    background-color:yellowgreen;
+}
