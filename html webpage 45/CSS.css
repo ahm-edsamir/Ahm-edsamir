@@ -1,0 +1,12 @@
+div{
+    background-color:#67b11c;
+    color:#fff;
+    padding:20px;
+    text-align:left;
+    background-position:10px 20px;
+    background-image:url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/29841/tick_2.png");
+    background-repeat:no-repeat;
+    border-radius: 10px;
+    border:2px solid green;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
