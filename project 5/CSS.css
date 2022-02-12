@@ -1,0 +1,14 @@
+a {
+    color:blue;
+    padding:10px;
+    text-decoration:none;
+}
+.container{
+    float:right;
+}
+.container .button{
+    color:white;
+    border:1px solid blue;
+    background-color:rgb(255, 140, 0);
+    border-radius:2px;
+}
