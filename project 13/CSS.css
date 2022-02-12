@@ -1,0 +1,62 @@
+.float {
+    float:right;
+}
+.float a{
+    text-decoration:none;
+    color:#fff;
+}
+body{
+    background-color:#293f50;
+}
+.gradient{
+font-size:50px;
+color:#fff;
+}
+.color{
+    color:white;
+    border:1px solid grey;
+    border-radius:3px;
+    padding:10px;
+    text-decoration:none;
+    margin-left:600px;
+}
+.align p.black{
+    text-align:center;
+    margin-left:10px;
+    margin-top:150px;
+    font-size:20px;
+}
+.align p.white{
+    text-align:center;
+    margin-left:50px;
+    margin-top:50px;
+    font-size:20px;
+    color:#fff;
+}
+.speakers{
+    width:20%;
+    margin-left:100px;
+    margin-top:100px;
+
+}
+.speakers a , .schedule a,{
+    text-decoration:none;
+}
+.grey{
+    color:grey;
+}
+.black{
+    color:black;
+}
+.schedule{
+    width:20%;
+   margin-left:500px;
+   margin-top:-150px;
+
+}
+   .venue{
+       width:20%;
+       margin-left:900px;
+       margin-top:-150px;
+   }
+ 
