@@ -1,0 +1,29 @@
+.container{
+    background:#eaeaed;
+    border-radius:5px;
+    height:200px;
+}
+.one{
+    position:relative;
+    left:50px;
+    top:50px;
+}
+.two{
+    border:2px dashed #666;
+    border-radius:5px;
+    width:200px;
+    height:150px;
+    position:absolute;
+    left:1070px;
+    top:20px;
+}
+.container .two .three{
+    position:absolute;
+    top:20px;
+    right:20px;
+    background:#2db34a;
+    color:#fff;
+    width:200px;
+    height:150px;
+    border-radius:5px;
+}
