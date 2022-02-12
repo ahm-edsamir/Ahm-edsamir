@@ -1,0 +1,25 @@
+.links a{
+    padding:10px;
+text-decoration:none;
+color:black;
+margin-top:0px;
+}
+.links a.grey{
+    color:grey;
+}
+.links{
+    margin-left:500px;
+}
+.links .blue{
+    color:blue;
+    border:1px solid blue;
+    background-color:white;
+    border-radius:2px;
+}
+.links .white{
+    background-color:blue;
+    color:white;
+    border:2px solid blue;
+    border-radius:2px;
+
+}
