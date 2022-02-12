@@ -1,0 +1,47 @@
+.one,.two,.three,.four{
+    margin-left:200px;
+    margin-top:300px;
+}
+.one{
+    background:#eaeaed;
+    color:#666;
+    width:100px;
+    height:100px;
+    border-radius:5px;
+    text-align:center;
+    display:inline-block;
+}
+.two{
+    background:none;
+    color:#666;
+    width:100px;
+    height:100px;
+    border-radius:5px;
+    border:2px dashed #9799a7;
+    text-align:center;
+    display:inline-block;
+    vertical-align:top;
+    margin-left:300px;
+}
+.three{
+    background:#eaeaed;
+    color:#666;
+    width:100px;
+    height:100px;
+    border-radius:5px;
+    text-align:center;
+    display:inline-block;
+    vertical-align:top;
+    margin-left:300px;
+}
+.four{
+    background:#2db34a;
+    color:#fff;
+    width:100px;
+    height:100px;
+    border-radius:5px;
+    text-align:center;
+    display:inline-block;
+    margin-left:650px;
+    margin-top:-500px;
+}
