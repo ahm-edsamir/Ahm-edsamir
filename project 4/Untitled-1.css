@@ -1,0 +1,20 @@
+code{
+    background:#007A78;
+    color:#ffc745;
+    display:inline-block;
+    width:200px;
+    height:200px;
+    margin-top:400px;
+    margin:100px;
+    padding-left:100px;
+    padding-top:100px;
+}
+.border-rounded{
+    border-radius:5px;
+}
+.border-circle{
+    border-radius:50%;
+}
+.border-football{
+    border-radius:15px 75px;
+}
