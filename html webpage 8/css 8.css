@@ -1,0 +1,45 @@
+
+header{
+    border:2px solid red;
+    text-align:center;
+    width:700px;
+    margin-left:300px;
+    padding:5px;
+    margin-top:50px;
+}
+.first{
+    border:2px solid green;
+    width:150px;
+    height:500px;
+    text-align:center;
+    margin-left:300px;
+    margin-top:10px;
+}
+.second{
+    border:2px solid green;
+    width:150px;
+    height:500px;
+    text-align:center;
+    margin-left:860px;
+    margin-top:-505px;
+}
+section{
+    border:2px solid blue;
+    text-align:center;
+    width:300px;
+    height:500px;
+    margin-left:500px;
+    margin-top:-500px;
+}
+footer{
+    border:2px solid red;
+    text-align:center;
+    width:700px;
+    margin-left:300px;
+    margin-top:10px;
+    padding:5px;
+}
+.third{
+    border:2px solid black;
+    width:1000px;
+}
