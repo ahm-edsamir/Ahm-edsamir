@@ -1,0 +1,16 @@
+body{
+    font-family: 'Lobster', cursive;
+}
+p{
+    color:red;
+    font-size:40px;
+    font-style:italic;
+    font-variant:small-caps;
+    font-weight:bold;
+    line-height:50px;
+    text-align:center;
+    text-indent:20px;
+    text-shadow:2px 2px 2px black;
+    text-transform:capitalize;
+    letter-spacing:2px;
+}
