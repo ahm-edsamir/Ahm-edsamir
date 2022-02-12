@@ -1,0 +1,22 @@
+
+nav ul li {
+    display:inline-block;
+    padding:20px;
+    background:#395870;
+    text-decoration:none;
+    color:#fff;
+    list-style-type:none;
+    border-right:1px solid rgba(0, 0, 0, .3);
+    
+
+}
+a{
+    color:#fff;
+    text-decoration:none;
+    background:#2a5372;
+
+}
+ nav ul li:hover{
+background:#223d53;
+}
+
