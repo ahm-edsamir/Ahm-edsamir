@@ -1,0 +1,22 @@
+code{background:#EAEAED;
+    display:inline-block;
+    width:200px;
+    height:200px;
+    text-align:center;
+    margin-top:350px;
+    margin-left:100px;
+    font-family:Arial, Helvetica, sans-serif;
+
+}
+.border-solid{
+    border:3px solid #666;
+}
+.border-double{
+    border:3px double #666;
+}
+.border-dashed{
+    border:3px dashed #666;
+}
+.border-dotted{
+    border:3px dotted #666;
+}
