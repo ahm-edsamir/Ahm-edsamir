@@ -1,0 +1,59 @@
+Header,Section,Aside,Footer{margin:10px 10px 50px 10px;
+}
+Header{
+    background:#2db34a;
+    color:#fff;
+    padding:20px;
+    text-align:center;
+    font-size:30px;
+    display:block;
+    margin-left:10px;
+    margin-right:10px;
+    border-radius:5px;
+}
+Section{
+    background:#2db34a;
+    color:#fff;
+    padding:20px;
+    text-align:center;
+    font-size:30px;
+    display:block;
+    margin-left:10px;
+    margin-right:10px;
+    margin-top:100px;
+    border-radius:5px;
+    float:left;
+    margin:10px 10px;
+    width:60%;
+    padding:20px;
+
+}
+Aside{
+    background:#2db34a;
+    color:#fff;
+    padding:20px;
+    text-align:center;
+    font-size:30px;
+    display:block;
+    margin-left:10px;
+    margin-right:10px;
+    border-radius:5px;
+    width:30%;
+    float:right;
+    margin-top:10px;
+    padding:20px;
+
+
+}
+Footer{
+    background:#2db34a;
+    color:#fff;
+    padding:20px;
+    text-align:center;
+    font-size:30px;
+    display:block;
+    margin-left:10px;
+    margin-right:10px;
+    border-radius:5px;
+    margin:200px 10px;
+    padding:20px;
