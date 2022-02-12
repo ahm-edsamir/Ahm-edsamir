@@ -1,0 +1,7 @@
+.one , .two , .three{
+    font-size:20px;
+    border:2px solid black;
+    padding:20px;
+    margin:20px;
+    background-color:thistle;
+}
