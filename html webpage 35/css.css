@@ -1,0 +1,27 @@
+.first,.second,.third,.fourth{
+    margin:100px;
+}
+.first{
+    border:2px solid grey;
+    display:block;
+    padding:30px;
+    width:20px;
+}
+.second{
+    border:6px double grey;
+    display:block;
+    padding:30px;
+    width:20px;
+}
+.third{
+    border:8px dashed grey;
+    display:block;
+    padding:30px;
+    width:20px;
+}
+.fourth{
+    border:4px dotted grey;
+    display:block;
+    padding:30px;
+    width:20px;
+}
