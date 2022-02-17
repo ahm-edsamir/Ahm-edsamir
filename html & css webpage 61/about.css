@@ -1,0 +1,140 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+header{
+    background-color:#35424a;
+    padding:36px 0px;
+    border-bottom:3px solid #e8491d;
+}
+nav{
+    float:right;
+    font-size:32px;
+}
+.second ,.third{
+    display:inline;
+}
+.second{
+    color:#e8491d;
+    font-size:32px;
+}
+.third{
+    color:#fff;
+    font-size:32px;
+}
+Nav a{
+    text-decoration:none;
+    color:#fff;
+    margin: 0px 10px;
+}
+.about{
+    color:#e8491d;
+}
+.section{
+    background-color:#35424a;
+    padding:30px 0px;
+}
+
+.fourth{
+    color:#fff;
+    font-weight:bold;
+    font-size:25px;
+    position:relative;
+    left:100px;
+}
+.fifth ,.sixth{
+    position:relative;
+    left:800px;
+    top:-20px;
+    padding:5px;
+}
+.sixth{
+    background-color:#e8491d;
+    color:#fff;
+}
+.seventh{
+    background-color:#f4f4f4;
+}
+.nine{
+    width:50%;
+}
+.eight ,.ten{
+    font-size:20px;
+    font-weight:bold;
+    display:inline;
+}
+.ten ,.eleven{
+    background-color:#35424a;
+    border:1px solid #35424a;
+    padding:25px 5px;
+    text-align:center;
+}
+.ten ,.eleven{
+    width:30%;
+    position:relative;
+    left:900px;
+    top:-50px;
+    color:#fff;
+}
+aside{
+    margin-right:100px;
+}
+.eight ,.nine{
+    position:relative;
+    left:50px;
+    top:50px;
+}
+
+footer{
+    background-color:#e8491d;
+    color:#fff;
+    text-align:center;
+    padding:20px;
+}
+html , body{
+    overflow:hidden;
+}
